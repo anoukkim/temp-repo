@@ -16,6 +16,8 @@
 ### Step 3. Open a Pull Request
 **Pull Request?**
 - shows your changes to other people
+- select *base* and *compare*
+- add title and description of request for clearer understanding
 
 ### Step 4. Merge a Pull Request
 **Merge?**
